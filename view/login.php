@@ -33,7 +33,7 @@
             </div>
             <div>
                 <input type="submit" value="Login" name="but_submit" id="but_submit" />
-                <button type="button" class="button" value="Input Button"><a id="button" href="index.php?action=add">  Sign in </a></button>        
+                <button type="button" class="button" value="Input Button"> Sign in </a></button>        
             </div>
             
         </div>
